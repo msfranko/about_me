@@ -1,0 +1,47 @@
+body{
+}
+header {
+ text-align: center;
+ max-width: 670px;
+ height: auto;
+ margin: 0 auto;
+}
+img {
+max-width: 650px;
+padding: 10px;
+}
+article {
+max-width: 650px;
+padding: 30px;
+margin: 0 auto;
+font-family: tahoma;
+}
+h1 {
+margin: 0 auto;
+max-width: 650px;
+font-family: verdana;
+font-size: 25px;
+color: orange;
+}
+h2 {
+margin: 0 auto;
+max-width: 650px;
+font-family: tahoma;
+font-size: 25px;
+color: orange;
+padding: 0px 0px 50px 0px;
+}
+input[type="submit"] {
+padding: 9px;
+background: orange;
+color: white;
+}
+input {
+padding: 7px;
+font-size: 15px;
+} 
+ul, li#contact {
+    list-style:none;
+    list-style-type:none;
+    margin: -40px;
+}
